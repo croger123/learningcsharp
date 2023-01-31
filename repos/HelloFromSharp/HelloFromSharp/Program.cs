@@ -2,7 +2,3 @@
 Console.WriteLine("Hello, Everybody!");
 Console.WriteLine("Hello, Everybody!");
 Console.WriteLine("Hello, Everybody!");
-
-Console.WriteLine("Hello, Everybody!");
-Console.WriteLine("Hello, Everybody!");
-Console.WriteLine("Hello, Everybody!");
